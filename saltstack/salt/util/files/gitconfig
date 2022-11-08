@@ -1,0 +1,4 @@
+[http]
+	proxy = fodev.org:8118
+[https]
+	proxy = fodev.org:8118
